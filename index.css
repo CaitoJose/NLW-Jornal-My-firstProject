@@ -25,7 +25,7 @@ html, input, select, button, option {
 #place {
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 08px;
 
   padding: 22px 16px;
 
